@@ -3,7 +3,9 @@ void main() {
   print("Hello Second");
   print("Done work");
   
-  print("New feature 1 added");
+  print("New git 1 added");
+
+  print("New git 1");
 }
 
 class Calculator {
