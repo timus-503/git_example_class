@@ -6,6 +6,8 @@ void main() {
   print("New git 1 added");
 
   print("New git 1");
+
+  print("New pull 1");
 }
 
 class Calculator {
